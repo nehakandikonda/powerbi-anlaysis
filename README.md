@@ -22,7 +22,7 @@ Customers and Churn Rate by Credit Score: Understanding the impact of credit sco
 Lost Customers by Country & Gender: Gender-based churn trends by country.
 Customers by Product Name: Product usage analysis.
  
-# #Tools Required
+## Tools Required
 Power BI Desktop :
 To create the dashboard and visualizations.
 Power Query :
