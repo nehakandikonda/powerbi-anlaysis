@@ -23,15 +23,15 @@ Lost Customers by Country & Gender: Gender-based churn trends by country.
 Customers by Product Name: Product usage analysis.
  
 ## Tools Required
-Power BI Desktop :
+1.Power BI Desktop :
 To create the dashboard and visualizations.
-Power Query :
+2. Power Query :
 To clean, transform, and shape the data before visualization.
-DAX (Data Analysis Expressions) :
+3. DAX (Data Analysis Expressions) :
 To create calculated measures and columns for advanced insights.
-SQL (Optional, if data is stored in databases)
+4.SQL (Optional, if data is stored in databases)
 To extract data from SQL databases if necessary.
-Excel/CSV Files :
+5.Excel/CSV Files :
 If the data source is an Excel or CSV file, Power BI can directly connect to them.
 
 ## Conclusion: Bank Churn Analysis Dashboard :
