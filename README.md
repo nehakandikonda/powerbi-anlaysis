@@ -24,16 +24,11 @@ Lost Customers by Country & Gender: Gender-based churn trends by country.
 Customers by Product Name: Product usage analysis.
  
 ## Tools Required
-## 1.Power BI Desktop :
-To create the dashboard and visualizations.
-2. Power Query :
-To clean, transform, and shape the data before visualization.
-3. DAX (Data Analysis Expressions) :
-To create calculated measures and columns for advanced insights.
-4.SQL (Optional, if data is stored in databases)
-To extract data from SQL databases if necessary.
-5.Excel/CSV Files :
-If the data source is an Excel or CSV file, Power BI can directly connect to them.
+1.Power BI Desktop : To create the dashboard and visualizations.
+2. Power Query : To clean, transform, and shape the data before visualization.
+3. DAX (Data Analysis Expressions) : To create calculated measures and columns for advanced insights.
+4.SQL (Optional, if data is stored in databases) :To extract data from SQL databases if necessary.
+5.Excel/CSV Files : If the data source is an Excel or CSV file, Power BI can directly connect to them.
 
 ## Conclusion: Bank Churn Analysis Dashboard :
 The Bank Churn Analysis Dashboard provides a clear view of customer retention and churn trends, helping the bank understand why customers are leaving. The data shows that 20.4% of customers have churned, which means the bank is losing a significant number of clients. Among different countries, Germany has the highest churn rate, followed by Spain and France, indicating that certain regional factors may affect customer loyalty. Additionally, customers aged 40-50 years and those with low credit scores are more likely to leave, possibly due to financial challenges or dissatisfaction with banking services.
