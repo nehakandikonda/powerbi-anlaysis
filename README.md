@@ -10,7 +10,7 @@ Customer details (gender, country, age, product usage, credit scores, etc.).
 Banking transactions and account activity.
 Churn status indicating whether a customer has left or not.
 
-# key tools
+# Raw Data:
 Total Customers & Churn Rate:
 Summary metrics showing total customers and churn percentage.
 Customers by Gender: Distribution of male and female customers.
