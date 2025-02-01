@@ -24,7 +24,7 @@ Lost Customers by Country & Gender: Gender-based churn trends by country.
 Customers by Product Name: Product usage analysis.
  
 ## Tools Required
-1.Power BI Desktop :
+#1.Power BI Desktop :
 To create the dashboard and visualizations.
 2. Power Query :
 To clean, transform, and shape the data before visualization.
