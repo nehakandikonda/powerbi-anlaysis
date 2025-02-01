@@ -1,11 +1,11 @@
 # powerbi-project
 
-## Objective of the Project
+## Objective of the Project :
 Understand customer churn trends.
 Identify key factors leading to customer churn.
 Help the bank take proactive measures to retain customers.
 
-## Data Sources
+## Data Sources :
 Customer details (gender, country, age, product usage, credit scores, etc.).
 Banking transactions and account activity.
 Churn status indicating whether a customer has left or not.
