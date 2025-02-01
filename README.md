@@ -11,7 +11,8 @@ Banking transactions and account activity.
 Churn status indicating whether a customer has left or not.
 
 # key tools
-Total Customers & Churn Rate: Summary metrics showing total customers and churn percentage.
+Total Customers & Churn Rate:
+Summary metrics showing total customers and churn percentage.
 Customers by Gender: Distribution of male and female customers.
 Customers by Active Status: Active vs. inactive customers.
 Customers by Credit Card Holder: Percentage of customers with and without credit cards.
